@@ -42,6 +42,5 @@
 <hr></hr>
 
 <div align="center" display="flex" height="200px" justify-content="center">
-<div height="200px"><img align="left" src="https://github-readme-stats.vercel.app/api?username=kiranpolaki&show_icons=true&locale=en" alt="kiranpolaki" /></div>
-<div height="200px"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranpolaki&" alt="kiranpolaki"  width="467px" height="195px"/></div>
+<div height="200px"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranpolaki&show_icons=true&locale=en" alt="kiranpolaki" /></div>
 </div>
