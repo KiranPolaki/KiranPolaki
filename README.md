@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 👋, I'm Polaki Sai Kiran</h1>
 <div align="center"><img src="https://github.com/KiranPolaki/KiranPolaki/blob/main/Profile.png"></div>
-<h3 align="center">A passionate frontend developer/ backend developer from India. I enjoy turning complex problems into simple, beautiful, and intuitive designs.</h3>
+<h3 align="center">Software Engineer at Kroll. I enjoy turning complex problems into simple, beautiful, and intuitive designs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpolaki&label=Profile%20views&color=0e75b6&style=flat" alt="kiranpolaki" /> </p>
 
