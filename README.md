@@ -1,5 +1,4 @@
 <h1 align="center">Namaste 👋, I'm Polaki Sai Kiran</h1>
-<div align="center"><img src="https://github.com/KiranPolaki/KiranPolaki/blob/main/Profile.png"></div>
 <h3 align="center">Software Engineer at Kroll. I enjoy turning complex problems into simple, beautiful, and intuitive designs.</h3>
 
 <hr></hr>
