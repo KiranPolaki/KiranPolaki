@@ -2,7 +2,7 @@
 
 <p align="center" >
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-  <span style="text-align: center;">contributing privately in building what is core of codedale</span>
+<!--   <span style="text-align: center;">contributing privately in building what is core of codedale</span> -->
 <!--   <img src="https://github.com/user-attachments/assets/668b999c-0bfa-4dc5-ac69-cc58da3dfc28" /> -->
 </div>
 
